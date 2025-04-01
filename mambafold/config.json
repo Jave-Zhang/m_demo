@@ -1,6 +1,6 @@
 {
 	"gpu": "1",
-	"u_net_d": 10,
+	"coder_d": 10,
 	"BATCH_SIZE": 1,
 	"batch_size_stage_1": 1,
 	"OUT_STEP": 100,
